@@ -1,7 +1,7 @@
 import torch
 import numpy as np
 import joblib
-from model import GRU_LSTM
+from model import HybridModel
 from alert import generer_alerte
 
 
